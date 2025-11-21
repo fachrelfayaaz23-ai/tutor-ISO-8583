@@ -1,6 +1,4 @@
 # tutor-ISO-8583
-Oke, gue jelasin **ulang dari nol**, pakai bahasa yang *paling gampang*, terus nanti gue lanjut jelasin **semua bagian** ISO-8583 untuk transaksi tarik tunai ATM.
-
 ---
 
 # 🔥 **1. APA ITU ISO-8583? (Versi paling gampang)**
